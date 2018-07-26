@@ -1,5 +1,5 @@
-A language agnostic live editing test suite
-Autogenerate tests for individual functions from source utilising type fuzzing
+A language agnostic live editing test suite     
+Autogenerate tests for individual functions from source utilising type fuzzing   
 
 #### Supported Languages:
 * js : javascript EMCAScript 5+
