@@ -1,0 +1,8 @@
+{
+  "PROJ_NAME": {
+    "projDir": "project directory",
+    "projFileName": "project filename",
+    "testFileDir": "directory of test file for project",
+    "testFileName": "test file for project" 
+  }
+}

@@ -1,0 +1,6 @@
+language agnostic testset deps
+
+language specific function call protocols are located in each language's respective directory
+
+needs to accomodate for undefined values returned from functions
+

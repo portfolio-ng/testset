@@ -1,0 +1,31 @@
+alltests =
+[
+  {
+    "funcname": "NAME OF FUNCTION TO TEST",
+    "tests": [
+      {
+        "assert": [
+          {
+            "what": "ASSERTION",
+            "where": "OBJ.PROPERTY"
+          },
+          {
+            "what": "ASSERTION",
+            "where": "OBJ.PROPERTY"
+          }
+        ],
+        "expect": [
+          {
+            "what": "DESIRED VALUE",
+            "where": "OBJ.PROPERTY.ANY.DEPTH"
+          },
+          {
+            "what": "DESIRED VALUE",
+            "where": "OBJ.PROPERTY.ANY.DEPTH"
+          }
+        ],
+        "why": "TERSE, CONCISE EXPLANATION FOR THIS SPECIFIC TEST"
+      }
+    ]
+  }
+]

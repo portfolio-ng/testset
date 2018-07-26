@@ -1,0 +1,13 @@
+simpHTTP
+  needs to accomodate any import
+    create a config file with the file name and path
+    do something similar to:
+      ole.testset.py -> dT_pA_impModule()
+    incorporate the .gitignore flag of adding tmp to the name 
+      or create a new module specific flag
+    check over hash if file changes while server is running
+  
+  needs to accomodate dot notation for args
+  
+  a way to write out
+    will be much better than the current ['print all']->{copy}->{paste}->[save]

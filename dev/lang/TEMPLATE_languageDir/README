@@ -1,0 +1,14 @@
+when adding new languages
+  copy this directory
+    replace the directory name with something identifying the language
+  fill in
+    config file
+      /path/to/alltests.json
+    funcTools.js
+      AGN_maxFunctionArgs() : maximum number of callable function arguments
+      AGN_chkAndApplyTypeFromLang() : post responses are strings so must convert back to correct type.. type conversion : LANG_TYPES->JS_TYPES
+      AGN_chkFuncname() : determines if test function is present in source file
+      AGN_functionCallout() : calls out to the function
+    simpHTTP
+      chkFunc() :
+      callout() :

@@ -1,0 +1,59 @@
+[
+  {
+    "meta": {}
+  },
+  {
+    "FUNC": [
+      "DESC",
+      {
+        "uses": []
+        "creates or updates": []
+      }, {
+        "notejs": []
+      }, {
+        "calls": []
+      }, {
+        "concerns": [
+          ]
+      }
+    ]
+  }
+  {
+    "": [
+      "DESC",
+      {
+        "uses": []
+        "creates or updates": []
+      }, {
+        "notejs": []
+      }, {
+        "calls": []
+      }, {
+        "concerns": [
+          ]
+      }
+    ]
+  }
+  {
+    "tst_onit": [
+      "fills the obj, calls the function and checks the values returned",
+      {
+        "uses": []
+        "creates or updates": ["alltests"]
+      }, {
+        "notejs": []
+      }, {
+        "calls": []
+      }, {
+        "concerns": [
+          "abuses the test object schema",
+          "dupes info from outcomes list in alltests",
+          "will need to choose",
+          "outcomes is scope limited to tst_onit and SUBS",
+          "outcomes is completely unused, should be removed",
+          "lacks a return"
+          ]
+      }
+    ]
+  }
+]
