@@ -6,8 +6,8 @@ Autogenerate tests for individual functions from source utilising type fuzzing
 * py : python 3.6+
 
 #### Source Files
-testsetedit.htm : live editing test HTML scaffolding
-srv_testSetEdit.py : simple server to run test suite on localhost
+testsetedit.htm : live editing test HTML scaffolding    
+srv_testSetEdit.py : simple server to run test suite on localhost   
 
 #### Directory Tree
 * dev/ : development folders of various languages
